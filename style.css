@@ -1,0 +1,35 @@
+body{
+  background-color: #C0C0C0;
+  background-image:
+      url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 10px;
+  width:70%;
+}
+
+h1{
+  background-color: #008080;
+}
+h2{
+  background-color: #FF00FF;
+}
+h3{
+  background-color: #CD5C5C;
+}
+td{
+  background-color: gold;
+}
+th{
+  background-color: #CD5C5C;
+}
+li{
+  background-color: pink;
+}
+.circular{
+  border-radius: 40%;
+}
